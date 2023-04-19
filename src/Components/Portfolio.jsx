@@ -19,10 +19,8 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
-
+import image from "../images/study.jpg";
 const imageAltText = "desktop with books and laptop";
-
 /**
  * Project list
  *
@@ -31,28 +29,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "JavaScript Evolution",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In this reading, you will learn about the history of JavaScript and the importance of ECMA (European Computer Manufacturers Association) and ECMAScript.",
+    url: "https://medium.com/@hammadhassan365/javascript-evolution-733d9100f2f0",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Uncover job opportunities in WEB and Mobile app development",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Learning how to program in JavaScript helps you prepare for a wide range of job opportunities. This is in part because it expands the possibilities of what you can build as a developer.",
+    url: "https://medium.com/@hammadhassan365/uncover-job-opportunities-in-web-a-859e1055458",
   },
   {
-    title: "My Resume Site",
+    title: "What is Bootstrap? A Short Look",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Bootstrap is often described as a way to “build fast, responsive sites” and it is a “feature-packed, powerful, and extensible frontend toolkit”.",
+    url: "https://medium.com/@hammadhassan365/what-is-bootstrap-a-short-look-8040c4ad4569",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "4 Week Course in 4 Days | Introduction to Git and GitHub by Google",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Introduction to Git and GitHub is a 4-week course offered by Google on the Coursera e-learning platform. Here is the summary of the course",
+    url: "https://medium.com/@hammadhassan365/4-week-course-in-4-days-introduction-to-git-and-github-by-google-66d672304748",
   },
 ];
 
